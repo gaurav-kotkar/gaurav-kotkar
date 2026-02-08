@@ -19,7 +19,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gaurav-kotkar-a9891532a/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
@@ -32,44 +32,12 @@
 
 ---
 
-## 🛠 Tech Stack
+## Languages and Tools:
 
 ### 👨‍💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css,nodejs,express,mysql,git,github,postman,vscode,vite" />
 </p>
-
-### ⚙ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🧾 Certificate Management System
-- Dynamic schema-based certificate generation
-- PDF generation with QR encryption
-- MySQL stored procedures
-- Redux state management
-- Secure and scalable architecture
-
-### 👥 User Management System
-- React + TypeScript CRUD
-- Tailwind modern UI
-- Mock + Real API integration
-- Extensible form architecture
 
 ---
 
