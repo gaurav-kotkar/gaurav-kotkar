@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kotkar</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Architecture" />
 </p>
 
----
+--- -->
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer from India  
-- 🔭 Currently building **Mahapanchayat Development (React + Node + MySQL)**  
+- 💻 A passionate Full-Stack Developer from India  
+- 🔭 I’m currently working as Lead SWE at **AVAK INFOTECH**  
 - 🌱 Preparing for **Advanced React & Backend roles**  
 - ⚡ Strong focus on performance, architecture & clean code  
 - 🎯 Passionate about solving real-world business problems
