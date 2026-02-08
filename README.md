@@ -12,7 +12,8 @@
 - 🔭 Currently building **Mahapanchayat Development (React + Node + MySQL)**  
 - 🌱 Preparing for **Advanced React & Backend roles**  
 - ⚡ Strong focus on performance, architecture & clean code  
-- 🎯 Passionate about solving real-world business problems  
+- 🎯 Passionate about solving real-world business problems
+- 📫 How to reach me: **[gauravkotkar2603@gmail.com](mailto:gauravkotkar2603@gmail.com)**
 
 ---
 
@@ -22,7 +23,7 @@
 <a href="https://www.linkedin.com/in/gaurav-kotkar-a9891532a/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="gauravkotkar2603@gmail.com">
+ <a href="mailto:gauravkotkar2603@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
