@@ -19,14 +19,16 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gaurav-kotkar-a9891532a/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
- <a href="mailto:gauravkotkar2603@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-kotkar-a9891532a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gauravkotkar2603@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
+
 
 ---
 
