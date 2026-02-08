@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Ulhas Kotkar</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Kotkar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Architecture" />
@@ -33,8 +33,6 @@
 ---
 
 ## Languages and Tools:
-
-### 👨‍💻 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css,nodejs,express,mysql,git,github,postman,vscode,vite" />
 </p>
