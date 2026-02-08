@@ -107,6 +107,101 @@
 ⭐ If you like my work, consider giving a star to my repositories!
 
 
+
+<h1 align="center">Hi 👋, I'm Gaurav Ulhas Kotkar</h1>
+<h3 align="center">Frontend & Full-Stack Developer | React • TypeScript • Node.js</h3>
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about building scalable and clean web applications  
+- 🔭 Currently working on **Certificate Management System (React + Node + MySQL)**  
+- 🌱 Preparing for **advanced React & Backend developer roles**  
+- 🎯 Strong focus on performance optimization & clean architecture  
+- 🧠 Love solving real-world business problems with efficient code  
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 👨‍💻 Projects: *(Add your deployed project link here)*
+- 📄 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📫 Email: your-email@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+- React.js
+- TypeScript
+- Redux / Redux-Saga
+- Tailwind CSS
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Vite
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- REST API Design
+- Authentication & Authorization
+
+### 🗄 Database
+- MySQL
+- SQL (Joins, Stored Procedures, Optimization)
+
+### 🧪 Tools & DevOps
+- Git & GitHub
+- Postman
+- VS Code
+- JSON Server
+- Vercel / Netlify Deployment
+
+---
+
+## 📈 Current Focus
+
+- Advanced React patterns  
+- Backend architecture design  
+- SQL query optimization  
+- Scalable full-stack systems  
+
+---
+
+## 🏆 Featured Projects
+
+### 📌 User Management System
+React + TypeScript + Tailwind CRUD application with dynamic schema-based form architecture.
+
+### 📌 Certificate Management System
+Full-stack application using React, Node.js, MySQL with dynamic certificate templates and PDF generation.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-kotkar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-kotkar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> Clean code. Scalable architecture. Real-world impact.
+
+---
+
+⭐ If you find my projects helpful, feel free to star them!
+
+
+
 <!--
 **gaurav-kotkar/gaurav-kotkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
